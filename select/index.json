@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Revolution",
+  "base_artist": "きただにひろし",
+  "createdAt": "2026-01-09T07:02:09.987402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Revolution",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/01_Revolution_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sternstunde / Die Revolution der Bärte",
+      "artist": "Freundeskreis",
+      "has_synced": false,
+      "path": "select/02_Sternstunde___Die_Revolution_der_Bärte_Freundeskreis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sternstunde\u0000Die Revolution Der Bärte",
+      "artist": "Freundeskreis",
+      "has_synced": false,
+      "path": "select/03_Sternstunde\u0000Die_Revolution_Der_Bärte_Freundeskreis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wu-Revolution",
+      "artist": "Wu-Tang Clan, Poppa Wu & Uncle Pete",
+      "has_synced": true,
+      "path": "select/04_Wu-Revolution_Wu-Tang_Clan,_Poppa_Wu_&_Uncle_Pete.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wu-Revolution",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/05_Wu-Revolution_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dark Time In the Revolution",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/06_Dark_Time_In_the_Revolution_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sound of the Revolution",
+      "artist": "Lunatic Calm",
+      "has_synced": false,
+      "path": "select/07_Sound_of_the_Revolution_Lunatic_Calm.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Old Revolution",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/08_The_Old_Revolution_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Revolution Blues",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/09_Revolution_Blues_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1917 Revolution",
+      "artist": "Beau",
+      "has_synced": false,
+      "path": "select/10_1917_Revolution_Beau.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Revolution",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": true,
+      "path": "select/11_Revolution_Jean-Michel_Jarre.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "revolution",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_01_revolution_きただにひろし.txt"
+    }
+  ]
+}
